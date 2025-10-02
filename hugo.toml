@@ -1,6 +1,7 @@
 
 baseURL = "https://p-forghani.github.io/hugo-coder-pouria/"
 relativeURLs = true
+canonifyURLs = true
 title = "Pouria Forghani"
 theme = "hugo-code"
 languagecode = "en"
