@@ -8,7 +8,7 @@ Here are some of the projects I've been working on:
 
 ---
 
-### 🎮 Game Manager Telegram Bot
+### 🎾 Game Manager Telegram Bot
 
 A comprehensive Telegram bot designed to manage competitive games,
 track player scores, and maintain rankings within group chats.
