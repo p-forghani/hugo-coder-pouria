@@ -21,17 +21,17 @@ collaborations.
 
 ### 🔗 Connect With Me
 
-#### 💼 LinkedIn
+#### LinkedIn
 Professional networking and career updates.
 
 **[linkedin.com/in/forghanip](https://www.linkedin.com/in/forghanip/)**
 
-#### 🐙 GitHub
+#### GitHub
 Check out my open-source projects and contributions.
 
 **[github.com/p-forghani](https://github.com/p-forghani/)**
 
-#### 🐦 X (Twitter)
+#### X (Twitter)
 Follow me for tech insights and occasional thoughts.
 
 **[@pouriaforghani](https://x.com/pouriaforghani/)**
