@@ -15,7 +15,7 @@ customer relationships.
 
 **Tech Stack:** Python · Flask · PostgreSQL · SQLAlchemy
 
-[Check out the demo →](https://ce.pouria.site/)
+[Check out the demo →](https://ce.pouria.site/)  
 [View on GitHub →](https://github.com/p-forghani/client-ease)
 
 ---
@@ -29,7 +29,7 @@ activity where you want to keep track of wins and losses.
 
 **Tech Stack:** Python · PostgreSQL · SQLAlchemy · python-telegram-bot · Alembic
 
-[Check it out →](https://t.me/game_manager_bot)
+[Check it out →](https://t.me/game_manager_bot)  
 [View on GitHub →](https://github.com/p-forghani/game-manager-bot)
 
 ---
